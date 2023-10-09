@@ -1,11 +1,11 @@
-##PY-EmailSender
+## PY-EmailSender
 
 Este proyecto proporciona un script en Python para enviar correos electrónicos utilizando el servidor SMTP de Gmail. Incluye una función para configurar los detalles del correo electrónico y enviar mensajes de manera segura.
 
-###Objetivo
+### Objetivo
 El objetivo de este proyecto es permitir a los usuarios enviar correos electrónicos de forma programática utilizando un script en Python, sin exponer la contraseña real de su cuenta de Gmail. En su lugar, se generará una contraseña de aplicación para una mayor seguridad.
 
-###Software o Servicios Utilizados
+### Software o Servicios Utilizados
 - Python
 - Cuenta de Gmail con verificación en dos pasos habilitada
 
