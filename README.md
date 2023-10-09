@@ -45,6 +45,7 @@ def enviar_correo(destinatario, asunto, mensaje):
     except Exception as e:
         print(f"Error al enviar el correo electrónico: {e}")
 ```
+
 **Implementación:**
 
 ```python
@@ -62,5 +63,6 @@ enviar_correo(destinatario, asunto, mensaje)
 ```
 
 ### Resultado
+
 Al ejecutar el script, se enviará un correo electrónico al destinatario especificado con el asunto y el mensaje proporcionados.  
 (*)Ten precaución con la contraseña de aplicación generada, ya que proporciona acceso a tu cuenta de Gmail para enviar correos electrónicos.
