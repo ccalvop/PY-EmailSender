@@ -2,21 +2,25 @@
 
 Este proyecto proporciona un script en Python para enviar correos electrónicos utilizando el servidor SMTP de Gmail. Incluye una función para configurar los detalles del correo electrónico y enviar mensajes de manera segura.
 
-### Objetivo
+**Objetivo**
+
 El objetivo de este proyecto es permitir a los usuarios enviar correos electrónicos de forma programática utilizando un script en Python, sin exponer la contraseña real de su cuenta de Gmail. En su lugar, se generará una contraseña de aplicación para una mayor seguridad.
 
-### Software o Servicios Utilizados
+**Software o Servicios Utilizados**
+
 - Python
 - Cuenta de Gmail con verificación en dos pasos habilitada
 
-### Instrucciones
+**Instrucciones**
+
 Para utilizar este script, sigue estos pasos:
 
 1. Habilita la verificación en dos pasos para tu cuenta de Google.  
 2. Crea una [contraseña de aplicación](https://support.google.com/accounts/answer/185833?hl=en) en tu cuenta de Google.  
 3. Copia y pega la contraseña de la aplicación en el script en el lugar designado.  
 
-### Código Python
+**Código Python**
+
 **El script** incluye una función enviar_correo que configura los detalles del correo electrónico y envía el correo de manera segura a través del servidor SMTP de Gmail. Para utilizarlo, simplemente llama a la función con la dirección de correo del destinatario, el asunto y el mensaje.  
 La función la he llamado `enviar_correo` con parámetros: `destinatario`, `asunto` y `mensaje`. Se utiliza una contraseña de aplicación para autenticarse en Gmail y enviar el correo.
 
@@ -62,7 +66,7 @@ asunto = 'asunto'
 enviar_correo(destinatario, asunto, mensaje)
 ```
 
-### Resultado
+**Resultado**
 
 Al ejecutar el script, se enviará un correo electrónico al destinatario especificado con el asunto y el mensaje proporcionados.  
 (*)Ten precaución con la contraseña de aplicación generada, ya que proporciona acceso a tu cuenta de Gmail para enviar correos electrónicos.
