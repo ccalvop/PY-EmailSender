@@ -70,3 +70,6 @@ enviar_correo(destinatario, asunto, mensaje)
 
 Al ejecutar el script, se enviará un correo electrónico al destinatario especificado con el asunto y el mensaje proporcionados.  
 (*)Ten precaución con la contraseña de aplicación generada, ya que proporciona acceso a tu cuenta de Gmail para enviar correos electrónicos.
+
+![diagram](https://github.com/ccalvop/PY-EmailSender/assets/126183973/4660f767-1f74-4802-9e98-c6f0a531759b)
+
