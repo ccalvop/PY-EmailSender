@@ -1,4 +1,4 @@
-## PY-EmailSender
+<p align="center"><img src="https://github.com/ccalvop/PY-EmailSender/assets/126183973/dbf8c6a6-abde-40bb-a162-5c52cc8f04ce" /></p>
 
 Este proyecto proporciona un script en Python para enviar correos electrónicos utilizando el servidor SMTP de Gmail. Incluye una función para configurar los detalles del correo electrónico y enviar mensajes de manera segura.
 
