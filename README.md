@@ -72,5 +72,3 @@ Al ejecutar el script, se enviará un correo electrónico al destinatario especi
 (*)Ten precaución con la contraseña de aplicación generada, ya que proporciona acceso a tu cuenta de Gmail para enviar correos electrónicos.
 
 ![diagram](https://github.com/ccalvop/PY-EmailSender/assets/126183973/0c975b6a-7607-422c-934a-25a4acf22a5b)
-
-TIME - 2024-05-25 14:11:01
