@@ -74,3 +74,4 @@ Al ejecutar el script, se enviará un correo electrónico al destinatario especi
 ![diagram](https://github.com/ccalvop/PY-EmailSender/assets/126183973/0c975b6a-7607-422c-934a-25a4acf22a5b)
 
 TIME - 2024-11-13 15:24:39
+TIME - 2025-02-12 17:41:57
